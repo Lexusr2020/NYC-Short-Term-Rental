@@ -16,11 +16,11 @@ The project will be divided into four sections:
 
 Answer questions using SQL:                     **Please refer to SQL Queries file**
 
-Data Wrangling and Cleaning:                    Presenting your findings for Business Impact
+Data Wrangling and Cleaning:                    **Presenting your findings for Business Impact**
 
 Data Analysis and Insights Generation:          **PLease refer to analyze_data file**
 
-Presenting your findings for Business Impact:   Presenting your findings for Business Impact
+Presenting your findings for Business Impact:   **Presenting your findings for Business Impact**
 
 
 
