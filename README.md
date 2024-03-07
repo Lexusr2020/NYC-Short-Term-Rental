@@ -9,3 +9,19 @@ Pillow Palooza has collected data from various sources on Airbnb listings in New
 The Head of Data at has requested you build a project that collects Airbnb listing data from multiple sources, cleans it, and analyzes it. The analysis will aim to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
 
 The insights gained from the analysis has the potential to provide valuable information to the start-up on how to make informed business decisions. By providing these insights, the project aima to help Pillow Palooza make strategic decisions that could lead to growth and success in the short-term rental market in New York City.
+
+
+## Project Logistics
+The project will be divided into four sections:
+
+### Answer questions using SQL to guide me along the analysis: Please refer to SQL Queries file
+
+### Data Wrangling and Cleaning: Please refer to data_cleaning file
+
+### Data Analysis and Insights Generation: PLease refer to analyze_data file
+
+### Presenting your findings for Business Impact: Please refer to NYC - ShortT Term Rental file
+
+
+
+
