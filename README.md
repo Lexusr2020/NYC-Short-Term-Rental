@@ -12,6 +12,7 @@ The insights gained from the analysis has the potential to provide valuable info
 
 
 ## Project Logistics
+
 The project will be divided into four sections:
 
 Answer questions using SQL:                     **Please refer to SQL Queries file**
@@ -20,7 +21,7 @@ Data Wrangling and Cleaning:                    **Please refer to data_analyze f
 
 Data Analysis and Insights Generation:          **PLease refer to analyze_data file**
 
-Presenting your findings for Business Impact:   **Please refer to Short-Term rental PDF file**
+Presenting findings for Business Impact:   **Please refer to Short-Term rental PDF file**
 
 
 
