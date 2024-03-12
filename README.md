@@ -20,7 +20,7 @@ Data Wrangling and Cleaning:                    **Please refer to data_analyze f
 
 Data Analysis and Insights Generation:          **PLease refer to analyze_data file**
 
-Presenting your findings for Business Impact:   **Presenting your findings for Business Impact**
+Presenting your findings for Business Impact:   **Please refer to Short-Term rental PDF file**
 
 
 
