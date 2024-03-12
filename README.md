@@ -18,7 +18,7 @@ Answer questions using SQL:                     **Please refer to SQL Queries fi
 
 Data Wrangling and Cleaning:                    **Please refer to data_analyze file**
 
-Data Analysis and Insights Generation:          **PLease refer to data_analyze file**
+Data Analysis and Insights Generation:          **PLease refer to analyze_data file**
 
 Presenting your findings for Business Impact:   **Presenting your findings for Business Impact**
 
