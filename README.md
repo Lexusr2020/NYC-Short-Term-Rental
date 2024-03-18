@@ -15,13 +15,13 @@ The insights gained from the analysis has the potential to provide valuable info
 
 The project will be divided into four sections:
 
-Answer questions using SQL:                     [**Please refer to SQL Queries file**](https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/SQL%20Queries.sql)
+Answer questions using SQL:                     (https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/SQL%20Queries.sql)
 
-Data Wrangling and Cleaning:                    [**Please refer to data_analyze file**](https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/analyze_data.ipynb)
+Data Wrangling and Cleaning:                    (https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/analyze_data.ipynb)
 
-Data Analysis and Insights Generation:          [**PLease refer to analyze_data file**](https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/data_cleaning.ipynb)
+Data Analysis and Insights Generation:          (https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/data_cleaning.ipynb)
 
-Presenting findings for Business Impact:        [**Please refer to Short-Term rental PDF file**](https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/NYC%20-%20Short%20Term%20Rental.pdf)https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/NYC%20-%20Short%20Term%20Rental.pdf
+Presenting findings for Business Impact:        (https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/NYC%20-%20Short%20Term%20Rental.pdf)
 
 
 
