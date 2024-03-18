@@ -25,7 +25,7 @@ Data Analysis and Insights Generation:
 Presenting findings for Business Impact:        
       https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/NYC%20-%20Short%20Term%20Rental.pdf
 
-Web application developed with Streamlit:
+Web application developed with Streamlit:  
 https://rental-4ulfcasr9sj9vcjusnp9ub.streamlit.app
 
 
