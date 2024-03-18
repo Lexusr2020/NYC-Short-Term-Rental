@@ -1,27 +1,32 @@
 # NYC Short-Term Rental
 
-Pillow Palooza is a start-up focused on disrupting the traditional real estate market by offering short-term rental options for travelers. The company has seen a significant increase in demand for short-term rentals in New York City, but wants to better understand the market in order to optimize their business strategy.
+Welcome to Pillow Palooza, a dynamic start-up poised to revolutionize the traditional real estate market with its focus on short-term rental options for travelers. With the surging demand for short-term rentals in New York City, Pillow Palooza is primed to optimize its business strategy by gaining a deeper understanding of the market landscape.
 
-Pillow Palooza has collected data from various sources on Airbnb listings in New York City to gain insight into the market. The company now plans to analyze this data using its internal teams, in order to provide recommendations on how to maximize revenue and occupancy rates for their short-term rental properties.
+Having collected extensive data from various sources on Airbnb listings across the city, Pillow Palooza is ready to embark on a journey of analysis and discovery. Our goal is to uncover key insights that will empower the company to maximize revenue and occupancy rates for its short-term rental properties.
 
-## Task
+I was tasked you with spearheading a project that involves collecting Airbnb listing data from multiple sources, cleaning it, and conducting a comprehensive analysis. Through this analysis, we aim to identify trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
 
-The Head of Data at has requested you build a project that collects Airbnb listing data from multiple sources, cleans it, and analyzes it. The analysis will aim to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
-
-The insights gained from the analysis has the potential to provide valuable information to the start-up on how to make informed business decisions. By providing these insights, the project aima to help Pillow Palooza make strategic decisions that could lead to growth and success in the short-term rental market in New York City.
+The insights gained from this analysis hold immense potential to inform Pillow Palooza's strategic decisions and drive growth and success in the competitive short-term rental market of New York City. Join me on this exciting journey as we leverage data-driven insights to shape the future of Pillow Palooza and redefine the short-term rental experience.
 
 
 ## Project Logistics
 
-The project will be divided into four sections:
+The project is segmented into four distinct sections:
 
-Answer questions using SQL:                     https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/SQL%20Queries.sql
+Answer questions using SQL:                     
+      https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/SQL%20Queries.sql
 
-Data Wrangling and Cleaning:                    https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/analyze_data.ipynb
+Data Wrangling and Cleaning:                    
+      https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/data_cleaning.ipynb
 
-Data Analysis and Insights Generation:          https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/data_cleaning.ipynb
+Data Analysis and Insights Generation:          
+      https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/analyze_data.ipynb
 
-Presenting findings for Business Impact:        https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/NYC%20-%20Short%20Term%20Rental.pdf
+Presenting findings for Business Impact:        
+      https://github.com/Lexusr2020/NYC-Short-Term-Rental/blob/main/NYC%20-%20Short%20Term%20Rental.pdf
+
+Web application developed with Streamlit:
+      https://rental-4ulfcasr9sj9vcjusnp9ub.streamlit.app
 
 
 
